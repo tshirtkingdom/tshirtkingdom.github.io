@@ -32,7 +32,7 @@ p{margin:0px;}
 .bg-overlay { 
     width: 100%;
     height: 100%;
-    background-color: rgba(0, 0, 0, 0.4);
+    background-color: rgba(0, 0, 0, 0.3);
 }
 
 @-webkit-keyframes init{0%{width:0px;height:0px;}
